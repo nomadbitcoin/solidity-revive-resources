@@ -51,3 +51,19 @@
 - **Learn with Bruno** – _How to deploy Solidity smart contracts on Polkadot:_  
   https://www.youtube.com/watch?v=4kMSUwuu23M  
   ✅ Good foundational content; deploys basic Storage contracts using Remix
+
+---
+
+### 📚 Parity Contract Docs
+
+- **Remix: Deploy Your First Contract:**  
+  https://contracts.polkadot.io/deploy-your-first-contract  
+  ✅ Worked smoothly
+
+  - Deployed Contract: [Westend Subscan](https://assethub-westend.subscan.io/account/0xc88605e7e9785ba39c79412cf33cef1713cfb1da)
+
+- **Remix: Build Your First Dapp:**  
+  https://contracts.polkadot.io/build-your-first-dapp
+
+- **Remix: Work with a Local Node:**  
+  https://contracts.polkadot.io/work-with-a-local-node
